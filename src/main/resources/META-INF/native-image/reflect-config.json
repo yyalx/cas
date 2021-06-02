@@ -1,0 +1,6 @@
+[
+    {
+        "name": "org.apereo.cas.web.CasWebApplicationContext",
+        "allDeclaredConstructors": true
+    }
+]
